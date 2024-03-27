@@ -39,3 +39,9 @@ the site request the ip adrress to web server (other computer) and this server r
 
   * Live Server
   * Material Icon Theme (opcional)
+ 
+  * replit: site que reposita codigos
+ 
+  * = : atribuição
+  * == : igualdad conteudo
+  * === : igualdade de conteudo e tipo de dados
