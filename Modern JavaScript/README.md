@@ -1,6 +1,6 @@
 # Modern JavaScript Tutorial
 
-* Lingaugem de alto nivel que oermite adiconar interatividade, dinamismo e lógica ás paginas web
+* Linguagem de alto nivel que oermite adiconar interatividade, dinamismo e lógica ás paginas web
 
 * Criada em 1995 por Brendam Eich entanto traalhava na NetScape
 
@@ -98,5 +98,3 @@ if ( condição true) {
 * == : igualdad conteudo
 
  * === : igualdade de conteudo e tipo de dados
-
-
