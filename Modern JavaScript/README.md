@@ -1,6 +1,6 @@
 # Modern JavaScript Tutorial
 
-* Linguagem de alto nivel que oermite adiconar interatividade, dinamismo e lógica ás paginas web
+* Lingaugem de alto nivel que oermite adiconar interatividade, dinamismo e lógica ás paginas web
 
 * Criada em 1995 por Brendam Eich entanto traalhava na NetScape
 
@@ -87,6 +87,14 @@ if ( condição true) {
 }
 ```
 
+Operação em ternario:
+
+outra forma de fazer o mesmo coidgo acima, porem em ternario
+
+```
+(condição) ? (bloco de codigo)
+```
+
 * operadores logicos - OR (ou) || e AND(e) &&
 
 * para verificar se uma variavel possui um caractere especifico (nomeVariavel.includes)
@@ -98,3 +106,22 @@ if ( condição true) {
 * == : igualdad conteudo
 
  * === : igualdade de conteudo e tipo de dados
+
+ ###### Functions
+
+ Blocos de codigos que podem ser reutilizados e invocados em alguns ponto do todo o codigo que estamos desenvolvendo
+
+* as variaveis ciradas dentro da funçaõ não serão vistas fora da função.
+
+caso declaramos uma variavel dentreo da função e fora, o que vai se manter é a declraçãp fora da função
+
+* declaração de uma função:
+
+```
+function greet(){
+    // bloco de codigo
+}
+```
+
+ * o que difere um metodo e uma funçao é o jeito qque o meteodo é inovado e definido
+
