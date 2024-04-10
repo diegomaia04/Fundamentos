@@ -125,3 +125,5 @@ function greet(){
 
  * o que difere um metodo e uma funçao é o jeito qque o meteodo é inovado e definido
 
+ * Pilha: 
+
