@@ -119,6 +119,7 @@ caso declaramos uma variavel dentreo da função e fora, o que vai se manter é 
 
 ```
 function greet(){
+
     // bloco de codigo
 }
 ```
