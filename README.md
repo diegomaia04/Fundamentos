@@ -7,4 +7,5 @@ Nesse repositorio será guardado todos os exercicios que fiz para reforçar o me
 Linaguens de programação que estao sendo execitadas e mantidas nesse repositorio
  - Python
  - Java
-
+ - JavaScript
+ - 
